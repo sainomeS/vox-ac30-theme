@@ -4,7 +4,7 @@
   "description": "The color theme, inspired by a VOX AC30 guitar amplifier.",
   "publisher": "sainomeS",
   "author": {"name": "sainomeS"},
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.95.0"
   },
