@@ -1,0 +1,21 @@
+{
+  "name": "vox-ac30-theme",
+  "displayName": "VOX AC30 Theme",
+  "description": "The Color theme inspired by an guitar amplifier AC30 made by VOX.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "VOX AC30 Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/VOX AC30 Theme-color-theme.json"
+      }
+    ]
+  }
+}
