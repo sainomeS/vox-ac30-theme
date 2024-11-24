@@ -2,6 +2,8 @@
   "name": "vox-ac30-theme",
   "displayName": "VOX AC30 Theme",
   "description": "The color theme, inspired by a VOX AC30 guitar amplifier.",
+  "publisher": "sainomeS",
+  "author": {"name": "sainomeS"},
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.95.0"
@@ -25,5 +27,6 @@
         "path": "./themes/vox-ac30-color-theme.json"
       }
     ]
-  }
+  },
+  "license":"UNLICENSED"
 }
