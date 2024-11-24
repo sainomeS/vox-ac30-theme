@@ -9,6 +9,14 @@
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "Themes",
+    "Theme"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sainomeS/vox-ac30-theme.git"
+  },
   "contributes": {
     "themes": [
       {
